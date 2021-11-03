@@ -1,5 +1,5 @@
 import React from "react"
-import { RepositoryItem } from "./RepositoryItem"
+import { RepositoryItem } from "../RepositoryItem"
 
 const repository = {
     name:"Unform 2",
